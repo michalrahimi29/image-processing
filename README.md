@@ -6,4 +6,5 @@ Contains three models that were created in order to predict the age of the patie
 1. Linear Regression
 2. MLP Regressor
 3. CNN
+
 We also created Auto Encoder model and used the Encoder to encode the images before sending them into the models.
